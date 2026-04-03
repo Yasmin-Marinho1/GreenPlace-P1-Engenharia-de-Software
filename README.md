@@ -8,7 +8,7 @@ Além disso, a plataforma também oferece um ambiente voltado para empresas e in
 
 ## Funcionalidades
 - Navegação Intuitiva
-- Layout Resposivo
+- Layout Responsivo
 - Formulários
 
 ## Tecnologias Utilizadas
