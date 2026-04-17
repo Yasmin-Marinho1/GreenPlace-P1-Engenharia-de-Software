@@ -807,7 +807,7 @@ select#selecao-itens:focus {
     /* Página de empresas */
     .info-empresa {
         margin: 2rem auto 6rem;
-        padding: 30px 90px 100px;
+        padding: 30px 90px 70px;
         max-width: 1200px;
         height: 70%;
         min-height: 600px;
