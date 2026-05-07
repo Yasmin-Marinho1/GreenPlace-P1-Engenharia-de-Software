@@ -26,7 +26,6 @@ Além disso, a plataforma também oferece um ambiente voltado para empresas e in
 
 ### Pré-requisitos
 - Python 3.14
-- Outras dependências
 
 ### Instalação
 1. Clone o repositório:
