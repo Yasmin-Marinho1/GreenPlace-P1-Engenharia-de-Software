@@ -9,7 +9,13 @@ Além disso, a plataforma também oferece um ambiente voltado para empresas e in
 ## Funcionalidades
 - Navegação Intuitiva
 - Layout Responsivo
-- Formulários
+- Gestão de Perfil
+- Geração de Relatórios
+- Classificação Visual
+- Cálculo de Pegada de Carbono
+- Pontuação de Emissões
+- Suporte à Pesquisa
+- Gestão de Dados em Tabelas
 
 ## Tecnologias Utilizadas
 - Frontend: HTML, CSS e JavaScript
